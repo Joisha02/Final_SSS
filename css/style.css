@@ -1439,4 +1439,11 @@ display:block;
 .btnspace{
   padding-top: 27%;
 }
+@media screen and (max-width: 706px) {
+  .logo {
+    position: relative;
+    top:0rem;
+    padding-bottom: 15%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
